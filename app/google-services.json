@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "870423773519",
+    "firebase_url": "https://contactmanagement-ce253.firebaseio.com",
+    "project_id": "contactmanagement-ce253",
+    "storage_bucket": "contactmanagement-ce253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870423773519:android:212efddfa253eaf4",
+        "android_client_info": {
+          "package_name": "com.project.contactmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870423773519-meovunuv0f06181u5o5oma7d11kcrb31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.contactmanagement",
+            "certificate_hash": "bf2cf73749dfefa4ae277d0aa6231f52a93037f4"
+          }
+        },
+        {
+          "client_id": "870423773519-30u2266k4r4v1dce564qdiu6tiptb069.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBde13EO9htup9CojHk3bqftdBFM1G2Ads"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870423773519-30u2266k4r4v1dce564qdiu6tiptb069.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

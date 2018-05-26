@@ -1,0 +1,16 @@
+ext{
+    //app
+    versionCode = 1
+    versionName = "1.0.0"
+
+    //compilation
+    minSdkVersion = 17
+    compileSdkVersion = 27
+    targetSdkVersion = 25
+
+    //dragger version
+    draggerVersion = '2.11'
+
+    //firebase version
+    firebaseVersion = '12.0.1'
+}
